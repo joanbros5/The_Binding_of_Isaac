@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Juanito Challenges</name>
+    <directory>juanito_challenges</directory>
+    <id>2516121340</id>
+    <description>This mod adds some custom challenges:
+
+&gt; Woof Woof
+    Do you like dogs? Everyone likes dogs.
+    (No gold rooms)
+    (Goal: Mom's heart)
+
+&gt; Seraphim Descent
+    Seraphim has lost faith in God and decided to meet his counterpart.
+    (No gold rooms, No sacrifice rooms, No angel deals)
+    (Goal: Satan)
+
+&gt; BRRRRRR
+    Hahaha Fruity Plum goes BRRRRRR.
+    (No gold rooms)
+    (Goal: Mom's foot)
+
+&gt; Pikachu
+    Become a bunch of electrons and kill your enemies with the power of electricity!
+    (No gold rooms, No shops)
+    (Goal: Corpse II's Mother)
+
+&gt; One Punch Isaac
+    I haven't seen the anime but it looks fun.
+    (Tainted Lost!)
+    (No gold rooms, No shops)
+    (Goal: Blue Baby in The Chest)
+
+&gt; Masochist
+    Embrace the pain and grow stronger each door you cross.
+    (Magdalene)
+    (No gold rooms)
+    (Goal: Mom's foot)
+
+&gt; Greedy balance
+    Choose between buying stuff or keeping your stats while you swim in money. Dedicated to Natdai, a close friend.
+    (The keeper)
+    (No gold rooms)
+    (Goal: Mom's heart)
+
+&gt; Shaman
+    Water, fire, earth, ice and electricity are your elements, summon your totem and make your enemies pay!
+    (No gold rooms)
+    (Goal: Mom's heart)
+
+&gt; Inside the freezer
+    Isaac stayed for too long in the freezer and he's almost frozen to death.
+    (Special mechanics via modding)
+    (No gold rooms)
+    (Goal: Mom's foot)
+
+&gt; Allahu Akbar
+    Kaboom!
+    (The lost!)
+    (No gold rooms)
+    (Goal: Mom's heart)
+
+&gt; Papa Fly Supremacy
+    I believe in Papa Fly supremacy
+    (Special mechanics via modding)
+    (No gold rooms, No shops)
+    (Goal: Mom's foot)</description>
+    <version>2.3</version>
+    <visibility>Public</visibility>
+    <tag id="Challenges"/>
+</metadata>
